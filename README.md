@@ -7,7 +7,7 @@ Have Fun
 I WONT GET CHARGED FOR ANY DAMAGE
 
 
-======== Disclaimer ========
+======= Convert[exe] =======
 
   
 you can make an exe out of it with <a href="https://www.pyinstaller.org/"><b> Pyinstaller <a>
