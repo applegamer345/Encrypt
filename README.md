@@ -3,7 +3,7 @@ Have Fun with it
 
 ======== Disclaimer ========
 
-I WONT GET CHARGET FOR ANY DAMAGE
+I WONT GET CHARGED FOR ANY DAMAGE
 
 
 ======== Disclaimer ========
